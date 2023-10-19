@@ -4,5 +4,7 @@ body{
 #body-header{
     height: 6vh;
     opacity: 0.8;
-    background-image: ;
+    background-image: url("young-woman-typing-macbook.jpg");
+    background-size: cover;
+    background-position: fixed;
 }
