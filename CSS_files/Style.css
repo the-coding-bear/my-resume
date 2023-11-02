@@ -21,6 +21,10 @@ body{
     color: white;
     text-decoration: none;
 }
+.horizontal-list li a:hover{
+    color: red;
+    border-bottom: 1px solid white;
+}
 .text-center{
     text-align: center;
 }
