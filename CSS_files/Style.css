@@ -29,3 +29,13 @@ body{
 .text-center{
     text-align: center;
 }
+#name-social-container{
+    margin-top: 20vh;
+}
+#my-name{
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
